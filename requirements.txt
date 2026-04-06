@@ -1,0 +1,8 @@
+torch>=2.0.0
+torchinfo
+yfinance
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
